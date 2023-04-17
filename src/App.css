@@ -13,3 +13,7 @@ header {
   align-items: center
 }
 
+.pointer {
+  cursor: pointer;
+}
+
